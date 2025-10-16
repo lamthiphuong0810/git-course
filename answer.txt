@@ -1,0 +1,3 @@
+a. Cau lenh de cai dat email va name la gi?
+    --> git config --global user.name "name"
+    --> git config --global user.email "email"
